@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "title": "Essentials of Music Theory",
+      "description": "Delve into the fundamentals of music theory in this comprehensive course. From understanding key signatures and scales to grasping chord progressions and cadences, this course provides a solid foundation for budding musicians and composers alike."
+    },
+    {
+      "title": "Introduction to Music Production",
+      "description": "Uncover the art and science of music production in this hands-on course. Learn the ins and outs of digital audio workstations (DAWs), MIDI sequencing, audio recording techniques, and mixing/mastering fundamentals to bring your musical ideas to life."
+    },
+    {
+      "title": "Exploring World Music Traditions",
+      "description": "Embark on a global musical journey and explore the rich tapestry of world music traditions. From the rhythms of Africa to the melodies of Asia and the harmonies of Europe, this course celebrates the diversity and beauty of musical expression across cultures."
+    },
+    {
+      "title": "The Art of Songwriting",
+      "description": "Unlock your creativity and learn the craft of songwriting in this dynamic course. Explore lyric writing techniques, song structure, melody development, and chord progressions as you discover how to craft compelling songs that resonate with audiences."
+    }
+  ]
+}
