@@ -1,8 +1,7 @@
-'use client'
-import React from 'react'
-import courseContent from "../data/courseContent.json"
-import { StickyScroll } from './ui/sticky-scroll-reveal'
 
+"use client";
+import React from "react";
+import { StickyScroll } from "./ui/sticky-scroll-reveal";
 
 const musicSchoolContent = [
     {
@@ -37,13 +36,10 @@ const musicSchoolContent = [
     },
   ];
 
-
-
 function WhyChooseUs() {
-
   return (
     <div>
-      <StickyScroll content={musicSchoolContent} />   
+        <StickyScroll content={musicSchoolContent} />
     </div>
   )
 }
