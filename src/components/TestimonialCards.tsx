@@ -35,7 +35,7 @@ const testimonials = [
 
 function TestimonialCards() {
   return (
-    <div className="h-[40rem] flex flex-col antialiased bg-white dark:bg-grid-small-white/[0.2] bg-grid-small-black/[0.4] dark:bg-black dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden">
+    <div className="h-[40rem] flex flex-col antialiased bg-white bg-grid-small-black/[0.4] dark:bg-black dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden">
       <h2 className="mt-20 md:mt-0 text-4xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">Hear From Our Students</h2>
       <p className="mt-5 pt-5 mb-5 pb-5 font-normal text-base md:text-lg text-neutral-300 max-w-[720px] mx-auto text-center">
         Explore what our students have to say about their experiences with our
