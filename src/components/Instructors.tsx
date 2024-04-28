@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
-import { WavyBackground } from "./ui/wavy-background";
-import { AnimatedTooltip } from "./ui/animated-tooltip";
+import { WavyBackground } from "@/components/ui/wavy-background";
+import { AnimatedTooltip } from "@/components/ui/animated-tooltip";
 
 function Instructors() {
   const instructors = [

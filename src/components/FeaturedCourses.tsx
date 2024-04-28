@@ -1,7 +1,7 @@
 'use client'
 import React from 'react'
-import courseData from "../data/music.json"
-import { BackgroundGradient } from './ui/background-gradient'
+import courseData from "@/data/music.json"
+import { BackgroundGradient } from '@/components/ui/background-gradient'
 import Link from 'next/link'
 
 
