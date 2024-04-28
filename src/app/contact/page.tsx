@@ -21,7 +21,7 @@ function page() {
           <p className="text-neutral-600 text-sm mt-2 dark:text-neutral-300">
             Connect with us today! Our contact page is your gateway to reaching
             our dedicated team. Whether you have questions, feedback, or
-            inquiries, we're here to assist you. Drop us a message, and let's
+            inquiries, we are here to assist you. Drop us a message, and let&apos;s
             start a conversation.
           </p>
         </div>
